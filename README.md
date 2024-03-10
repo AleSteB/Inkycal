@@ -225,6 +225,8 @@ Additionally, if you want to reset your crontab file, which runs inkycal at boot
 crontab -r
 ```
 
+https://rahulmahale.com/blogs/running-cronjob-at-reboot-on-raspberry-pi/
+
 ## Modifying Inkycal
 
 Inkycal now runs in a virtual environment to support more devices than just the Raspberry Pi. Therefore, to make changes
